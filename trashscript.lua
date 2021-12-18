@@ -1,3 +1,7 @@
+pcall(function()
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents:Destroy()
+end)
+wait()
 _blWmdnn8DmXNFE5M, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
